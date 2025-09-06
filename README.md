@@ -3,7 +3,7 @@ The Finch Operating Sysytem is a simple operating system written entirely in ass
 
 Some useful tips to get you started;
 1. It is strongly recommended to run it on actual hardware.
-2. BIOS is only supported. Anyway, FinchOS relies on BIOS calls for handling stuff like display and sound output. It is required to run it on a BIOS computer or one that at least supports legacy BIOS mode.
+2. BIOS is only supported. Anyway, FinchOS relies on BIOS calls for handling stuff like display and sound output. So, a BIOS-compatible computer is required to run the OS or one that at least supports legacy BIOS mode.
 3. Once you boot into the menu, press "1" to launch the shell and then type "help" to list all available commands.
 4. You can quit all games by pressing q.
 
