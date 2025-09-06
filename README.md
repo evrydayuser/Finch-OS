@@ -3,8 +3,9 @@ The Finch Operating Sysytem is a simple operating system written entirely in ass
 
 Some useful tips to get you started;
 1. It is strongly recommended to run it on actual hardware.
-2. Once you boot into the menu, press "1" to launch the shell and then type "help" to list all available commands.
-3. You can quit all games by pressing q.
+2. BIOS is only supported. Anyway, FinchOS relies on BIOS calls for handling stuff like display and sound output. It is required to run it on a BIOS computer or one that at least supports legacy BIOS mode.
+3. Once you boot into the menu, press "1" to launch the shell and then type "help" to list all available commands.
+4. You can quit all games by pressing q.
 
 Known issues;
 1. Qemu is the best way to run it virtually. However, a bug is present where characters lose their original green colour after a while and sound might not work properly.
