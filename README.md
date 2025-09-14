@@ -11,4 +11,4 @@ Known issues;
 1. Qemu is the best way to run it virtually. However, a bug is present where characters lose their original green colour after a while and sound might not work properly.
 2. On VirtualBox, it will not run at all.
 
-# Feel free to fork!
+ Feel free to fork!
